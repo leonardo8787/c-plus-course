@@ -1,0 +1,19 @@
+﻿Em caso de deformação da programação, em detrimento da utilização de bloco de notas, envio as seguintes gbd's, afim de 
+evitar transtornos.
+
+Lâmpada
+main.cpp: https://onlinegdb.com/BkPGCPNbu
+Lampada.cpp: https://onlinegdb.com/HkH7CDV-d
+Lampada.hpp: https://onlinegdb.com/B1J4CP4Wu
+
+Matemática
+main.cpp: https://onlinegdb.com/H1_ApwV-_
+Matematica.cpp: https://onlinegdb.com/BJCxAPNWd
+Matematica.hpp: https://onlinegdb.com/HkqZAPE-O
+
+Triângulo - impossível, erro técnico.
+main.cpp: 
+Triangulo.cpp:
+Triangulo.hpp:
+
+Qualquer dúvida, entrar em contado: leocampos8787@gmail.com , ou via teams.
